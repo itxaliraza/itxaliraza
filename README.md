@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👨‍💻 All of my projects are available at [www.itxaliraza.tech](www.itxaliraza.tech)
 
 - 💬 Ask me about **Android**
 
